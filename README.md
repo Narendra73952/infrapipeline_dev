@@ -1,1 +1,1 @@
-terraform rg deployment pipeline multi stage 
+terraform rg deployment multistage pipeline 
